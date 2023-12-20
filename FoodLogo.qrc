@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/food">
+        <file>img/baconlogo.jpg</file>
+        <file>img/cheeselogo.jpg</file>
+        <file>img/delivery.jpg</file>
+        <file>img/dinein.jpg</file>
+        <file>img/mushroomlogo.jpg</file>
+        <file>img/pizzalogo.jpg</file>
+        <file>img/Yellow Simple Pizza Member Business Card.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/Yellow Simple Pizza Member Business Card (1).jpg</file>
+    </qresource>
+</RCC>
